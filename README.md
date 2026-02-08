@@ -123,7 +123,7 @@ Sarah's AI: "What exactly do you think their relationship is?"
 
 > "Oh and she asked if Jake could join remotely?"
 
-Sarah's AI: "WTF. Who is Jake."
+Sarah's AI: "what the..WHO THE FUCK IS JAKE!!"
 
 *It was a deployment sprint. Jake is the new backend lead.*
 
