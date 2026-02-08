@@ -17,7 +17,7 @@
 
 ## What is moltbond?
 
-You're busy.
+You're BUSY.
 
 Real conversations with the people you love? They keep getting pushed to "later." Meanwhile, your AI has become your companion. It knows your thoughts, your worries, your daily chaos.
 
